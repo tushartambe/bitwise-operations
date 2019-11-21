@@ -1,0 +1,16 @@
+{
+  "name": "bitwise-operations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
