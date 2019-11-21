@@ -1,5 +1,5 @@
 {
-  "name": "bitwise-operations",
+  "name": "@tushartambe/bitwise",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -8,9 +8,17 @@
   "scripts": {},
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^6.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushartambe/bitwise-operations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tushartambe/bitwise-operations/issues"
+  },
+  "homepage": "https://github.com/tushartambe/bitwise-operations#readme",
+  "description": ""
 }
