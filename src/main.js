@@ -7,4 +7,8 @@ function add(x, y) {
   else return add(x ^ y, (x & y) << 1);
 }
 
-module.exports = { add }
+function substract(x,y){
+  return add(x,-(y));
+}
+
+module.exports = { add, substract }
