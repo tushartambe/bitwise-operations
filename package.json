@@ -1,11 +1,13 @@
 {
-  "name": "@tushartambe/bitwise",
+  "name": "bitwise-js-operations",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/main.js",
   "directories": {
     "test": "test"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {},
